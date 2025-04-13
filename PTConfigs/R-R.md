@@ -22,3 +22,4 @@ Esta es una configuración para dos sub redes y finalmente la conexión al otro 
 | no shutdown        | encendemos        |
 | end                |                   |
 | copy running-config startup-config    | Guardamos         |
+
